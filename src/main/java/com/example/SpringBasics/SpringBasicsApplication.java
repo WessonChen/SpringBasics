@@ -1,5 +1,6 @@
 package com.example.SpringBasics;
 
+import com.example.SpringBasics.basics.BinarySearchImpl;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

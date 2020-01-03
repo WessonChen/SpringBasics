@@ -1,9 +1,9 @@
-package com.example.SpringBasics;
+package com.example.SpringBasics.basics;
 
 import org.springframework.stereotype.Component;
 
-@Component(value = "quick")
-public class QuickSortAlgorithm implements SortAlgorithm {
+@Component(value = "bubble")
+public class BubbleSortAlgorithm implements SortAlgorithm {
 
     @Override
     public int[] sort(int[] numbersToSort) {
